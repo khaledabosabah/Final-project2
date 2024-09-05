@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.section1 .container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+ }
+ .section1 .fixedclass{
+     position: fixed;
+     background:#101f38ce;
+     z-index: 12313;
+     
+ }
+ .section1 .nav-item{
+     margin: 0px 10px;
+ }
+ #inputPassword2:focus{
+     box-shadow: none;
+     outline: none;
+     
+ 
+ }
+ /* --------------about head -------------------- */
+ .section1{
+     width: 100%;
+     background-image: url(../img/logistics-service.jpg);
+     
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size:cover;
+    
+     
+ 
+ }
+ .section1 .cta_bg{
+     background-color: #212446a8;
+     padding-top: 10rem;
+     padding-bottom: 5rem;
+     width: 100%;
+ }
+ .section1 .section5_cta_h1{
+     width: fit-content;
+ }
+ /* about head end ----------------------------- */
+ /* ================================footer start============================= */
+footer{
+    height: auto;
+    background-color: #0e1d34;
+    margin-top: 10rem;
+}
+footer a{
+    text-decoration: none;
+}
+footer .icons{
+    font-size: 20px;
+    padding: 10px;
+    color: #F1F2F3;
+    margin: 5px;
+}
+footer ul{
+    list-style: none;
+}
+footer li {
+    margin-top: 10px;
+}
+footer a {
+    color: rgb(167, 167, 167);
+}
+/* tablet */
+@media(max-width:768px){
+    footer{
+        height: auto;
+        background-color: #0e1d34;
+        /* margin-top: 95rem; */
+    }
+
+}
