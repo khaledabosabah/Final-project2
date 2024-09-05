@@ -176,7 +176,7 @@ color: #F1F2F3;
     }
     /* xlarge screen end */
     /* ========================more services end=================================== */
-    /* ========================carousel start========================================= */
+   /* ========================carousel start========================================= */
 
 
 
@@ -186,8 +186,8 @@ color: #F1F2F3;
 .section8{
     width: 100%;
     background-image: url(../img/testimonials-bg.jpg);
-    margin-top: 10rem;
-    height: 50vh;
+    margin-top: 15rem;
+    height: 70vh;
     background-repeat: no-repeat;
     background-position: center;
     margin-bottom: 3rem;
@@ -231,7 +231,7 @@ color: #F1F2F3;
 /* tablet */
 @media(max-width:768px){
     .section8{
-        margin-top: 5rem;
+        margin-top: 8rem;
         }
 
 }
@@ -239,7 +239,7 @@ color: #F1F2F3;
 /* mobile */
 @media(max-width:551px){
     .section8{
-        margin-top: 5rem;
+        margin-top: 8rem;
     }
  .section8 .mobile{
     height: 90% !important;

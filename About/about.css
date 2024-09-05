@@ -171,12 +171,11 @@ color: #F1F2F3;
 .section8{
     width: 100%;
     background-image: url(../img/testimonials-bg.jpg);
-    margin-top: 50rem;
-    height: 50vh;
+    margin-top: 15rem;
+    height: 70vh;
     background-repeat: no-repeat;
     background-position: center;
     margin-bottom: 3rem;
-
 }
 .section8 .cta_bg{
     background-color: #212446a8;
@@ -217,7 +216,7 @@ color: #F1F2F3;
 /* tablet */
 @media(max-width:768px){
     .section8{
-        margin-top: 90rem;
+        margin-top: 100rem;
         }
 
 }
@@ -241,6 +240,7 @@ color: #F1F2F3;
     .section8{
         width: 100v;
         background-image: url(../img/testimonials-bg.jpg);
+        margin-top: 10rem;
         height: 50vh;
         background-repeat: no-repeat;
         background-position: center;
